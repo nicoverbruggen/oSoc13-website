@@ -130,6 +130,8 @@ h2{
   background: #FFF !important;
   .project{
     img{
+      padding-left: 15px;
+      padding-top: 25px;
       max-width: 150px;
     }
     h3{
@@ -194,7 +196,7 @@ p.hero-paragraph{
   font-weight: 300;
   color: #FFF;
   margin-left: 60px;
-  margin-right: auto;
+  margin-right: 60px;
   text-align: left;
   font-size: 1.3em;
   line-height: 1.8em;
@@ -217,6 +219,7 @@ p.hero-paragraph{
   }
   .students-gallery{
     .grid-25{
+      margin-bottom: 35px;
       p{
         text-align: center;
       }
